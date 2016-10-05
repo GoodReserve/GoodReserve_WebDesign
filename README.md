@@ -4,6 +4,10 @@
 * NanumBarunGothic
 * Roboto Mono
 
+## Size
+* Main Card 320*266
+* Wait List Card 245*99
+
 ## Color
 * [#993939] [Main Dark Red] >> Main,예약 확정 YES
 * [#757575] [Main Silver] >> 예약 확정 NO
