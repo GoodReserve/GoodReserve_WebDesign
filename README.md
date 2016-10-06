@@ -1,4 +1,4 @@
-# GoodReserve_WebDesign
+﻿# GoodReserve_WebDesign
 
 ## Fonts
 * NanumBarunGothic
@@ -17,3 +17,4 @@
 ## Radius
 * Main Card _ 15px
 * Wait List Card _ 15px
+* Login Field_ 10px
