@@ -1,4 +1,4 @@
-﻿# GoodReserve_WebDesign
+# GoodReserve_WebDesign
 
 ## Fonts
 * NanumBarunGothic
@@ -9,10 +9,31 @@
 * Wait List Card 245*99
 
 ## Color
-* [#993939] [Main Dark Red] >> Main,예약 확정 YES
-* [#757575] [Main Silver] >> 예약 확정 NO
-* [#bdbdbd] [Lite Silver] >> 대기 List
+#### Header Bar
 
+background-color: #973C3D; 
+border-bottom: 1px solid #803333;
+.sikdang name background-color:#fbfafa;
+
+#### Main CARD_승인
+
+.card header{ background-color: #973C3D; }
+.card{background-color: #ffffff;}
+
+#### Main CARD_미승인
+
+.background{ background-color: #747474; }
+.number{background-color: #ffffff;} 
+
+#### Wait List
+
+.background{background-color:#BBBBBB;}
+.card header{background-color:#EAEAEA;}
+.header text{color:#747474;}
+.card{background-color: #ffffff;}
+.card text{color:2a2a2a;}
+
+#### 별도로 기재하지 않는 색상은 모두 #973C3D 사용
 
 ## Radius
 * Main Card _ 15px
